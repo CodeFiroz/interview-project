@@ -88,10 +88,9 @@ This is a 2-hour technical integration task built to demonstrate:
 
 ## 🖼️ Screenshots
 
-> *(Optional – insert screenshots here)*
 > Example:
-> ![WordPress Post Display](./screenshots/wp-posts.png)
-> ![Shopify Mock Product UI](./screenshots/shopify-products.png)
+> ![WordPress Post Display](./wp-posts.png)
+> ![Shopify Mock Product UI](./shopify-products.png)
 
 ---
 
