@@ -11,8 +11,7 @@ This is a 2-hour technical integration task built to demonstrate:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/brand-dashboard-widget.git
-   cd brand-dashboard-widget
+   git clone https://github.com/CodeFiroz/interview-project
 
 2. **Open the Project**
    No backend setup required. Open `index.html` directly in your browser.
